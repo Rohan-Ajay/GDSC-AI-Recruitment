@@ -26,12 +26,13 @@ Solutions to challenges given in the first phase of recruitment for AI departmen
  ### The Dataset :
   
   ![image](https://user-images.githubusercontent.com/113159416/189271472-bb665a7e-7166-40c3-a3ea-ef7a97273623.png)
-
+ 
+  **(NOTE : Observe Row-88. Here, the column 'Age' bears a Null value)**
+  
  ### Task-1 : Display only the numeric columns
   
   ![image](https://user-images.githubusercontent.com/113159416/189271632-6403d85e-8faf-416f-8e6b-5c6780ce5e2f.png)
   
-  **(NOTE : Observe Row-88. Here, the column 'Age' bears a Null value)**
  
  ### Task-2 : Remove the null values from column ‘Age’, ‘Fare’
   
